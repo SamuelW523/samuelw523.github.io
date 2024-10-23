@@ -34,7 +34,7 @@ html {
 }
 
 body {
-    font-family: "Ubuntu", sans-serif ;
+    font-family: "Poppins", sans-serif ;
     background: var(--color-bg) ;
     color:var(--color-white);
     line-height: 1.7;
